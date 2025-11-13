@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6975-2038"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Yuanzhi_Wang8?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yuanzhi-wang-b97ab3212/?originalSubdomain=hk"
+  linkedin         : yuanzhi-wang-b97ab3212
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -86,7 +86,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
