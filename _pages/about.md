@@ -14,7 +14,6 @@ Education
 ======
 
 - PhD in Business Statistics, Department of Decision Analytics and Operations, City University of Hong Kong, 2022-present
-
   - Advisors: [Prof. Guanhao Feng](https://gavinfeng702.com/), [Prof. Jingyu He](https://jingyuhe.com/)
 
 - MSc in Business and Data Analytics (QAB Stream), College of Business, City University of Hong Kong, 2020-2021
