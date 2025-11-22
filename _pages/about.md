@@ -12,7 +12,7 @@ I am a 4th year PhD Candidate in Business Statistics from Department of Decision
 
 Research Interest: Empirical Asset Pricing, Machine Learning, Deep Learning, Textual Analysis, etc.
 
-You can find my CV here: [Yuanzhi WANG's Curriculum Vitae](../assets/CV_WANG_Yuanzhi.pdf).
+<!-- You can find my CV here: [Yuanzhi WANG's Curriculum Vitae](../assets/CV_WANG_Yuanzhi.pdf). -->
 
 Education
 ======
