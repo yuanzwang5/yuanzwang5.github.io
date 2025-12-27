@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CVs here: [English CV](../assets/CV_WANG_Yuanzhi.pdf).
+You can find my CVs here: [English CV](../assets/CV_WANG_Yuanzhi.pdf) | [中文简历](../assets/中文简历_王元直.pdf).
 
 Education
 ======
