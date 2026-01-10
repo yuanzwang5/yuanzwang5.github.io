@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "WANG Yuanzhi"
+title                    : "Yuanzhi's Homepage"
 title_separator          : "-"
 name                     : &name "Yuanzhi WANG"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,12 @@ repository               : "yuanzwang5/yuanzwang5.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  # name             : "Yuanzhi WANG"
-  name_en          : "Yuanzhi WANG"
-  name_zh          : "王元直"
+  name             : "Yuanzhi Wang (王元直)"
+  # name_en          : "Yuanzhi WANG"
+  # name_zh          : "王元直"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Hong Kong SAR"
+  bio              : "Ph.D. Candidate in Business Statistics"
+  location         : "Hong Kong SAR, China"
   employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "yuanzwang5-c@my.cityu.edu.hk" 
