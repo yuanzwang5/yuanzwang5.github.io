@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: "About"
 excerpt: "About me"
@@ -20,11 +19,11 @@ Welcome to my page! I am a Ph.D. Candidate in Business Statistics from the Depar
 
 ## Education
 
-- **City University of Hong Kong**, Department of Decision Analytics and Operations
+- **City University of Hong Kong**, Department of Decision Analytics and Operations \
   Ph.D in Business Statistics (2021-present)
 
-- **City University of Hong Kong**, College of Business
+- **City University of Hong Kong**, College of Business \
   MSc in Business and Data Analytics (QAB Stream) (2020-2021)
 
-- **Jilin University**, School of Business
-   B.M. in Financial Management (2015-2019)
+- **Jilin University**, School of Business \
+  B.M. in Financial Management (2015-2019)
