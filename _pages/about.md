@@ -1,24 +1,30 @@
 ---
 layout: archive
 permalink: /
-title: "About Me"
+title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a 4th year PhD Candidate in Business Statistics from Department of Decision Analysis and Operations at City University of Hong Kong. 
+Welcome to my page! I am a Ph.D. Candidate in Business Statistics from the Department of Decision Analysis and Operations at City University of Hong Kong. My research interests include AI for finance, empirical asset pricing, machine learning, deep learning, and textual analysis. I am fortunate to be advised by Prof. [Guanhao Feng](https://gavinfeng702.com/) and Prof. [Jingyu He](https://jingyuhe.com/).
 
-Research Interest: Empirical Asset Pricing, Machine Learning, Deep Learning, Textual Analysis, etc.
+**I am on the 2025-2026 job market.**
+
+### Contact
+- yuanzwang5-c@my.cityu.edu.hk
 
 <!-- You can find my CV here: [Yuanzhi WANG's Curriculum Vitae](../assets/CV_WANG_Yuanzhi.pdf). -->
 
-Education
-======
-* Ph.D in Business Statistics, Department of Decision Analytics and Operations, City University of Hong Kong, 2026(expected)
-  * Advisors: [Prof. Guanhao Feng](https://gavinfeng702.com/), [Prof. Jingyu He](https://jingyuhe.com/)
+## Education
 
-* MSc in Business and Data Analytics (QAB Stream), College of Business, City University of Hong Kong, 2021
+- **City University of Hong Kong**, Department of Decision Analytics and Operations
+  Ph.D in Business Statistics (2021-present)
 
-* B.M. in Financial Management, School of Business, Jilin University, 2019
+- **City University of Hong Kong**, College of Business
+  MSc in Business and Data Analytics (QAB Stream) (2020-2021)
+
+- **Jilin University**, School of Business
+   B.M. in Financial Management (2015-2019)
