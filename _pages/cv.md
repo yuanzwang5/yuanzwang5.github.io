@@ -11,20 +11,23 @@ redirect_from:
 
 You can find my CVs here: [English CV](../assets/CV_WANG_Yuanzhi.pdf), [中文简历](../assets/中文简历_王元直.pdf).
 
-Education
-======
-* Ph.D in Business Statistics, Department of Decision Analytics and Operations, City University of Hong Kong, 2026(expected)
-  * Advisors: [Prof. Guanhao Feng](https://gavinfeng702.com/), [Prof. Jingyu He](https://jingyuhe.com/)
+## Education
 
-* MSc in Business and Data Analytics (QAB Stream), College of Business, City University of Hong Kong, 2021
+- **City University of Hong Kong**, Department of Decision Analytics and Operations \
+  Ph.D in Business Statistics (2022-present) \
+  Advisors: Prof. [Guanhao Feng](https://gavinfeng702.com/) & Prof. [Jingyu He](https://jingyuhe.com/)
 
-* B.M. in Financial Management, School of Business, Jilin University, 2019
+- **City University of Hong Kong**, College of Business \
+  MSc in Business and Data Analytics (QAB Stream) (2020-2021)
 
-Work experience
-======
-* Lab for AI-Powered Financial Tech Ltd.
-  * Research Assistant
-  * Duties includes: Data cleaning, sentiment analysis, default predictions, etc.
+- **Jilin University**, School of Business \
+  B.M. in Financial Management (2015-2019)
+
+
+## Work experience
+
+- **Lab for AI-Powered Financial Tech Ltd.**, Research Assistant \
+  Works: Data cleaning, sentiment analysis, default predictions, etc.
   <!-- * Supervisor: The Users -->
 
 <!-- * Fall 2015: Research Assistant
