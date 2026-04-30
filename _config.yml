@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles' 
   working_paper:
     title: 'Working Papers'   
+  work_in_progress:
+    title: 'Work in Progress'
   conferences:
     title: 'Conference Papers'
 

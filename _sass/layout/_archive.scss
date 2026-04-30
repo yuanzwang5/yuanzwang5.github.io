@@ -66,6 +66,30 @@
   }
 }
 
+.archive__item-abstract {
+  margin: 0 0 1em;
+  font-size: $type-size-6;
+
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+  }
+}
+
+.archive__item-abstract-body {
+  margin-top: 0.5em;
+
+  p {
+    margin-bottom: 0.75em;
+  }
+}
+
+.archive__item-links {
+  margin-top: 0.5em;
+  font-size: $type-size-6;
+  text-indent: 0;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
@@ -79,7 +103,7 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
+  .archive__item-title a {
     text-decoration: underline;
   }
 }
