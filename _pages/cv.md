@@ -49,12 +49,6 @@ You can find my CVs here: [English CV](../assets/CV_WANG_Yuanzhi.pdf), [中文�
   * Sub-skill 2.3
 * Skill 3 -->
 
-Researchs
-======
-  <ul>{% for post in site.researchs reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
