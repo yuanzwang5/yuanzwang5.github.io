@@ -25,11 +25,16 @@
           {% endif %}
         </div>
 
-        {% if post.coauthors or post.date %}
+        {% if post.coauthors or post.date or post.status %}
           <ul class="research__meta-list">
-            <li>
-              {% if post.coauthors %}with {{ post.coauthors }}{% endif %}{% if post.coauthors and post.date %}. {% endif %}{% if post.date %}<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%b. %Y" }}</time>{% endif %}{% if post.coauthors or post.date %}.{% endif %}
-            </li>
+            {% if post.coauthors or post.date %}
+              <li>
+                {% if post.coauthors %}with {{ post.coauthors }}{% endif %}{% if post.coauthors and post.date %}. {% endif %}{% if post.date %}<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%b. %Y" }}</time>{% endif %}{% if post.coauthors or post.date %}.{% endif %}
+              </li>
+            {% endif %}
+            {% if post.status %}
+              <li>{{ post.status }}</li>
+            {% endif %}
           </ul>
         {% endif %}
 

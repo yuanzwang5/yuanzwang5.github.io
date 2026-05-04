@@ -51,6 +51,7 @@
 .research-section-title {
   margin: 1.4em 0 0.7em;
   color: var(--global-link-color);
+  font-size: $type-size-2;
 }
 
 .research__item {
@@ -68,8 +69,7 @@
 
 .research__item-title {
   margin-bottom: 0.45em;
-  font-size: $type-size-5;
-  font-style: italic;
+  font-size: $type-size-4;
   font-weight: bold;
   line-height: 1.25;
 
@@ -82,6 +82,7 @@
 .research__meta-list {
   margin: 0.35em 0 0.65em 1.25em;
   padding-left: 1em;
+  font-size: $type-size-5;
   list-style-type: circle;
 }
 
@@ -109,7 +110,7 @@
 
 .archive__item-abstract {
   margin: 0 0 1em;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   summary {
     cursor: pointer;
