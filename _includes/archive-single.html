@@ -33,7 +33,7 @@
               </li>
             {% endif %}
             {% if post.status %}
-              <li>{{ post.status }}</li>
+              <li>{{ post.status | markdownify | remove: '<p>' | remove: '</p>' }}</li>
             {% endif %}
           </ul>
         {% endif %}
