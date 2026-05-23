@@ -50,6 +50,30 @@
 
 .page__content {
 
+  .about-intro {
+    text-align: justify;
+  }
+
+  .visitor-map-panel {
+    margin-top: 0.75em;
+  }
+
+  .visitor-map-placeholder {
+    border: 1px solid var(--global-border-color);
+    background: var(--global-bg-color);
+    color: var(--global-text-color-light);
+    padding: 1.2em;
+    text-align: center;
+    font-size: $type-size-6;
+  }
+
+  .visitor-map-note {
+    margin-top: 0.75em;
+    color: var(--global-text-color-light);
+    font-size: $type-size-6;
+    text-align: justify;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
