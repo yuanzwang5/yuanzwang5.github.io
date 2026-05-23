@@ -54,24 +54,16 @@
     text-align: justify;
   }
 
-  .visitor-map-panel {
-    margin-top: 0.75em;
+  .about-separator {
+    margin: 2.5em 0 1em;
+    border-top: 1px solid var(--global-border-color);
   }
 
-  .visitor-map-placeholder {
+  .visitor-map-frame {
+    display: block;
+    width: 100%;
+    height: 260px;
     border: 1px solid var(--global-border-color);
-    background: var(--global-bg-color);
-    color: var(--global-text-color-light);
-    padding: 1.2em;
-    text-align: center;
-    font-size: $type-size-6;
-  }
-
-  .visitor-map-note {
-    margin-top: 0.75em;
-    color: var(--global-text-color-light);
-    font-size: $type-size-6;
-    text-align: justify;
   }
 
   h2 {

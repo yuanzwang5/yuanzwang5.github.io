@@ -29,11 +29,11 @@ Welcome to my page! I am a Ph.D. Candidate in Business Statistics from the Depar
 - **Jilin University**, School of Business \
   B.M. in Financial Management (2015-2019)
 
-## Visitor Map
+<div class="about-separator"></div>
 
-<div class="visitor-map-panel">
-  <div class="visitor-map-placeholder">
-    Visitor region map will appear here after connecting a visitor-map widget.
-  </div>
-  <p class="visitor-map-note">Static GitHub Pages cannot store cumulative IP-region counts by itself. Paste a generated PulseMaps, DZ Counter, or similar visitor-map embed code into this block to show countries/regions and visit counts.</p>
-</div>
+<iframe
+  class="visitor-map-frame"
+  title="Visitor map"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=-180%2C-58%2C180%2C82&amp;layer=mapnik"
+  loading="lazy">
+</iframe>
