@@ -28,13 +28,3 @@ Welcome to my page! I am a Ph.D. Candidate in Business Statistics from the Depar
 
 - **Jilin University**, School of Business \
   B.M. in Financial Management (2015-2019)
-
-<div class="about-separator"></div>
-
-<div class="visitor-flags">
-  <a href="https://info.flagcounter.com/yuanzwang5" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://s01.flagcounter.com/count2/yuanzwang5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
-      alt="Visitor flags">
-  </a>
-</div>
