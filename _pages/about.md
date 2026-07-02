@@ -11,8 +11,6 @@ redirect_from:
 Welcome to my page! I am a Ph.D. Candidate in Business Statistics from the Department of Decision Analysis and Operations at City University of Hong Kong. My research interests include AI for finance, empirical asset pricing, machine learning, deep learning, and textual analysis. I am fortunate to be advised by Prof. [Guanhao Feng](https://gavinfeng702.com/) and Prof. [Jingyu He](https://jingyuhe.com/).
 {: .about-intro }
 
-**I am on the 2025-2026 job market.**
-
 ### Contact
 - yuanzwang5-c@my.cityu.edu.hk
 
