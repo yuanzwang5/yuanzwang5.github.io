@@ -27,15 +27,6 @@
   }
 }
 
-.archive--wide {
-  @include breakpoint($large) {
-    float: none;
-    margin-left: 0;
-    padding-left: 0;
-    width: 100%;
-  }
-}
-
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
